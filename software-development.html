@@ -969,10 +969,9 @@
 				<a itemprop="url" class="qodef-mobile-header-logo-link" href="/" style="height:35px" rel="home">
 					<img width="129" height="35" alt="logo main" itemprop="image"
 						class="qodef-header-logo-image qodef--main lazyload"
-						src="./assets/cubicus_logo.png"><noscript><img
-							width="129" height="35"
-							src="./assets/cubicus_logo.png"
-							class="qodef-header-logo-image qodef--main" alt="logo main" itemprop="image" /></noscript>
+						src="./assets/cubicus_logo.png"><noscript><img width="129" height="35"
+							src="./assets/cubicus_logo.png" class="qodef-header-logo-image qodef--main" alt="logo main"
+							itemprop="image" /></noscript>
 				</a><a href="javascript:void(0)"
 					class="qodef-opener-icon qodef-m qodef-source--predefined qodef-mobile-header-opener">
 					<span class="qodef-m-icon qodef--open">
@@ -1167,7 +1166,8 @@
 														<p>All working products start out as daring ideas. Except, these
 															ideas have a custom mobile app, IoT application, or a
 															bespoke website behind them.</p>
-														<p>Is it time to turn your ideas into a product? Cubicus utilises
+														<p>Is it time to turn your ideas into a product? Cubicus
+															utilises
 															the broader picture and relevant data to bring your plans to
 															life.</p>
 													</div>
@@ -2314,9 +2314,11 @@
 		window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
 		window.RS_MODULES.type = 'compiled';
 	</script>
-	<!-- Instagram Feed JS -->
-	<script type="text/javascript">
-		var sbiajaxurl = "http://vimbi.uk.w3pcloud.com/wp-admin/admin-ajax.php";
+	<script>
+		let dom = document.getElementsByClassName("qodef-m-icon qodef--close");
+		setTimeout(() => {
+			dom[0].click();
+		}, 100);
 	</script>
 	<script type="text/javascript">
 		(function () {

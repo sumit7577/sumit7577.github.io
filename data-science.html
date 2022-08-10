@@ -962,10 +962,9 @@
 				<a itemprop="url" class="qodef-mobile-header-logo-link" href="/" style="height:35px" rel="home">
 					<img width="129" height="35" alt="logo main" itemprop="image"
 						class="qodef-header-logo-image qodef--main lazyload"
-						src="./assets/cubicus_logo.png"><noscript><img
-							width="129" height="35"
-							src="./assets/cubicus_logo.png"
-							class="qodef-header-logo-image qodef--main" alt="logo main" itemprop="image" /></noscript>
+						src="./assets/cubicus_logo.png"><noscript><img width="129" height="35"
+							src="./assets/cubicus_logo.png" class="qodef-header-logo-image qodef--main" alt="logo main"
+							itemprop="image" /></noscript>
 				</a><a href="javascript:void(0)"
 					class="qodef-opener-icon qodef-m qodef-source--predefined qodef-mobile-header-opener">
 					<span class="qodef-m-icon qodef--open">
@@ -981,7 +980,8 @@
 					<ul id="menu-vimbi-menu-2" class="qodef-content-grid">
 						<li
 							class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-10148">
-							<a href="/"><span class="qodef-menu-item-text">Home</span></a></li>
+							<a href="/"><span class="qodef-menu-item-text">Home</span></a>
+						</li>
 						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9791"><a
 								href="./about.html"><span class="qodef-menu-item-text">About</span></a></li>
 						<li
@@ -1002,15 +1002,18 @@
 										<li
 											class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9748 current_page_item menu-item-9789">
 											<a href="./data-science.html"><span class="qodef-menu-item-text">Data
-													Science</span></a></li>
+													Science</span></a>
+										</li>
 										<li
 											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9788">
 											<a href="./software-development.html"><span
-													class="qodef-menu-item-text">Software Development</span></a></li>
+													class="qodef-menu-item-text">Software Development</span></a>
+										</li>
 										<li
 											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9787">
 											<a href="./technology.html"><span
-													class="qodef-menu-item-text">Technology</span></a></li>
+													class="qodef-menu-item-text">Technology</span></a>
+										</li>
 									</ul>
 								</div>
 							</div>
@@ -2355,7 +2358,8 @@
 						<ul id="menu-vimbi-menu-3" class="menu">
 							<li
 								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-10148">
-								<a href="/"><span class="qodef-menu-item-text">Home</span></a></li>
+								<a href="/"><span class="qodef-menu-item-text">Home</span></a>
+							</li>
 							<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9791"><a
 									href="./about.html"><span class="qodef-menu-item-text">About</span></a></li>
 							<li
@@ -2376,7 +2380,8 @@
 											<li
 												class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9748 current_page_item menu-item-9789">
 												<a href="./data-science.html"><span class="qodef-menu-item-text">Data
-														Science</span></a></li>
+														Science</span></a>
+											</li>
 											<li
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9788">
 												<a href="./software-development.html"><span
@@ -2385,7 +2390,8 @@
 											<li
 												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9787">
 												<a href="./technology.html"><span
-														class="qodef-menu-item-text">Technology</span></a></li>
+														class="qodef-menu-item-text">Technology</span></a>
+											</li>
 										</ul>
 									</div>
 								</div>
@@ -2410,6 +2416,13 @@
 		window.RS_MODULES.defered = true;
 		window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
 		window.RS_MODULES.type = 'compiled';
+
+	</script>
+	<script>
+		let dom = document.getElementsByClassName("qodef-m-icon qodef--close");
+		setTimeout(()=>{
+			dom[0].click();
+		},100);
 	</script>
 	<script type="text/javascript">
 		(function () {
