@@ -1,1 +1,114 @@
-.elementor-2719 .elementor-element.elementor-element-f3099f1:not(.elementor-motion-effects-element-type-background), .elementor-2719 .elementor-element.elementor-element-f3099f1 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("http://vimbi.uk.w3pcloud.com/wp-content/uploads/2022/07/Contact-Head-1.jpg");background-position:center center;background-size:cover;}.elementor-2719 .elementor-element.elementor-element-f3099f1{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:0px 0px 0px 0px;}.elementor-2719 .elementor-element.elementor-element-f3099f1 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-2719 .elementor-element.elementor-element-d70d679 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-2719 .elementor-element.elementor-element-d70d679 > .elementor-element-populated{margin:8.2% 0% 19% 0%;--e-column-margin-right:0%;--e-column-margin-left:0%;padding:0px 0px 0px 0px;}.elementor-2719 .elementor-element.elementor-element-2275bc8{margin-top:0px;margin-bottom:0px;padding:0px 0px 0px 0px;}.elementor-2719 .elementor-element.elementor-element-18e499d > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-2719 .elementor-element.elementor-element-18e499d > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-2719 .elementor-element.elementor-element-e51e1f5 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0% 0% 10% 0%;}.elementor-2719 .elementor-element.elementor-element-e51e1f5{width:527px;max-width:527px;}.elementor-2719 .elementor-element.elementor-element-67a24f2:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-2719 .elementor-element.elementor-element-67a24f2 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-2719 .elementor-element.elementor-element-67a24f2 > .elementor-element-populated, .elementor-2719 .elementor-element.elementor-element-67a24f2 > .elementor-element-populated > .elementor-background-overlay, .elementor-2719 .elementor-element.elementor-element-67a24f2 > .elementor-background-slideshow{border-radius:3% 3% 3% 3%;}.elementor-2719 .elementor-element.elementor-element-67a24f2 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:14% 0% 0% 0%;--e-column-margin-right:0%;--e-column-margin-left:0%;padding:11% 11% 11% 11%;}.elementor-2719 .elementor-element.elementor-element-67a24f2 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-2719 .elementor-element.elementor-element-2a34535 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}@media(max-width:1024px){.elementor-2719 .elementor-element.elementor-element-f3099f1{margin-top:68px;margin-bottom:0px;padding:75px 0px 0px 0px;}.elementor-2719 .elementor-element.elementor-element-d70d679 > .elementor-element-populated{margin:10.9% 0% 20% 0%;--e-column-margin-right:0%;--e-column-margin-left:0%;padding:0px 0px 0px 0px;}}@media(max-width:767px){.elementor-2719 .elementor-element.elementor-element-f3099f1:not(.elementor-motion-effects-element-type-background), .elementor-2719 .elementor-element.elementor-element-f3099f1 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("http://vimbi.uk.w3pcloud.com/wp-content/uploads/2022/07/About-Head-1.jpg");background-position:center center;}.elementor-2719 .elementor-element.elementor-element-d70d679 > .elementor-element-populated{margin:52px 0px 111px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}}
+.elementor-2719 .elementor-element.elementor-element-f3099f1:not(.elementor-motion-effects-element-type-background),
+.elementor-2719 .elementor-element.elementor-element-f3099f1>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("http://vimbi.uk.w3pcloud.com/wp-content/uploads/2022/07/Contact-Head-1.jpg");
+    background-position: center center;
+    background-size: cover;
+}
+
+.elementor-2719 .elementor-element.elementor-element-f3099f1 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-2719 .elementor-element.elementor-element-f3099f1>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2719 .elementor-element.elementor-element-d70d679>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-2719 .elementor-element.elementor-element-d70d679>.elementor-element-populated {
+    margin: 8.2% 0% 19% 0%;
+    --e-column-margin-right: 0%;
+    --e-column-margin-left: 0%;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-2719 .elementor-element.elementor-element-2275bc8 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-2719 .elementor-element.elementor-element-18e499d>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-2719 .elementor-element.elementor-element-18e499d>.elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-2719 .elementor-element.elementor-element-e51e1f5>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0% 0% 10% 0%;
+}
+
+.elementor-2719 .elementor-element.elementor-element-e51e1f5 {
+    width: 527px;
+    max-width: 527px;
+}
+
+.elementor-2719 .elementor-element.elementor-element-67a24f2:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-2719 .elementor-element.elementor-element-67a24f2>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-2719 .elementor-element.elementor-element-67a24f2>.elementor-element-populated,
+.elementor-2719 .elementor-element.elementor-element-67a24f2>.elementor-element-populated>.elementor-background-overlay,
+.elementor-2719 .elementor-element.elementor-element-67a24f2>.elementor-background-slideshow {
+    border-radius: 3% 3% 3% 3%;
+}
+
+.elementor-2719 .elementor-element.elementor-element-67a24f2>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 14% 0% 0% 0%;
+    --e-column-margin-right: 0%;
+    --e-column-margin-left: 0%;
+    padding: 11% 11% 11% 11%;
+}
+
+.elementor-2719 .elementor-element.elementor-element-67a24f2>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2719 .elementor-element.elementor-element-2a34535>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+@media(max-width:1024px) {
+    .elementor-2719 .elementor-element.elementor-element-f3099f1 {
+        margin-top: 68px;
+        margin-bottom: 0px;
+        padding: 75px 0px 0px 0px;
+    }
+
+    .elementor-2719 .elementor-element.elementor-element-d70d679>.elementor-element-populated {
+        margin: 10.9% 0% 20% 0%;
+        --e-column-margin-right: 0%;
+        --e-column-margin-left: 0%;
+        padding: 0px 0px 0px 0px;
+    }
+}
+
+@media(max-width:767px) {
+
+    .elementor-2719 .elementor-element.elementor-element-f3099f1:not(.elementor-motion-effects-element-type-background),
+    .elementor-2719 .elementor-element.elementor-element-f3099f1>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-image: url("http://vimbi.uk.w3pcloud.com/wp-content/uploads/2022/07/About-Head-1.jpg");
+        background-position: center center;
+    }
+
+    .elementor-2719 .elementor-element.elementor-element-d70d679>.elementor-element-populated {
+        margin: 52px 0px 111px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 0px 0px 0px 0px;
+    }
+}
